@@ -120,3 +120,60 @@ li a {
   border-radius: 15px;
   margin-bottom: 10px;
 }
+
+/* quote-section css */
+.quote {
+  background-color: #E5E7EB;
+  padding: 100px 25%;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  color: #1F2937;
+  margin-bottom: 20px;
+}
+
+.quote-author {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+}
+
+/* cta-section css */
+.cta {
+  padding: 100px 25%;
+}
+
+.cta-container {
+  display: flex;
+  background-color: #2882F6;
+  padding: 50px 0;
+  justify-content: space-around;
+  align-items: center;  
+  border-radius: 10px;
+}
+
+.cta-text h3 {
+  color: #F9FAF8;
+  font-size: 24px;
+  margin-bottom: 4px;
+}
+
+.cta-text p {
+    color: #E5E7EB;
+  } 
+
+.cta-container button {
+  border: 2px solid white;
+}
+
+/* footer css */
+footer {
+  text-align: center;
+  padding: 30px;
+  font-size: 18px;
+  background-color: #1F2937;
+  color: #E5E7EB;
+}
